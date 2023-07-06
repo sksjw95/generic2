@@ -1,4 +1,4 @@
 package generic1;
 
-public class Flower {
+public class Flower{
 }

@@ -1,4 +1,4 @@
 package generic1;
 
-public class RosePasta {
+public class RosePasta{
 }

@@ -6,7 +6,7 @@ public class Basket2<T>{
     public T getItem(){
         return item;
     }
-    public void setItem(T item){
+    public void setItem (T item){
         this.item = item;
     }
 }

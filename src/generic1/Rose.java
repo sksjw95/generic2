@@ -1,4 +1,4 @@
 package generic1;
 
-public class Rose extends Flower{
+public class Rose extends Flower {
 }
